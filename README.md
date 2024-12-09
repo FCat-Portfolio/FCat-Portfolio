@@ -1,4 +1,14 @@
 ## Hi there 👋
+# About me :blush:
+Experienced
+## What do I do ✍️
+lots
+### Help examples ❔
+writing samples
+### Content management 📂
+ADO queries
+### Version control 🗃️
+Git branches
 
 <!--
 **FCat-Portfolio/FCat-Portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
